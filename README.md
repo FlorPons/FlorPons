@@ -13,7 +13,7 @@ Al principio soy un poco tímida, pero cuando adquiero confianza puedo lograr gr
 
 ## Lenguajes y Herramientas
 
-**Lenguajes y tecnologías:** Python, Java, JavaScript, HTML, CSS, SQL, MongoDB, R, entre otros.
+**Lenguajes y tecnologías:** Python, Java, JavaScript, HTML, CSS, MySQL, R, entre otros.
 
 ## Contacto
  Mi Linkedin es www.linkedin.com/in/maria-florencia-pons 
