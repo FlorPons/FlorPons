@@ -11,11 +11,6 @@ Actualmente me desempeño como docente desde hace más de 10 años, por lo que n
 
 **Lenguajes y tecnologías:** Python, Java, JavaScript, HTML, CSS, SQL, MongoDB, R, entre otros.
 
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide=contribs,prs)
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Contacto
  Mi Linkedin es www.linkedin.com/in/maria-florencia-pons 
 
