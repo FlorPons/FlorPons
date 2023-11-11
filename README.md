@@ -13,7 +13,20 @@ Al principio soy un poco tímida, pero cuando adquiero confianza puedo lograr gr
 
 ## Lenguajes y Herramientas
 
-**Lenguajes y tecnologías:** Python, Java, JavaScript, HTML, CSS, MySQL, R, entre otros.
+![1](https://github.com/FlorPons/FlorPons/assets/111473222/264fca0a-cfeb-4d92-85e2-b06865487e4e)
+![2](https://github.com/FlorPons/FlorPons/assets/111473222/d4e6492a-a674-4c1a-adfa-38a72c0a63cb)
+![3](https://github.com/FlorPons/FlorPons/assets/111473222/b76dc9bd-bab9-4fc6-9348-46418e3d2296)
+![4](https://github.com/FlorPons/FlorPons/assets/111473222/ddeec203-43d6-48b1-8296-0a9e43835314)
+![5](https://github.com/FlorPons/FlorPons/assets/111473222/dedac53b-21d4-4567-87e5-92053629b49f)
+![6](https://github.com/FlorPons/FlorPons/assets/111473222/0f0d8319-f2c8-4849-8623-5cef7f0ab8d3)
+![7](https://github.com/FlorPons/FlorPons/assets/111473222/2148a891-c5ee-49dd-af05-60b8b549e7f8)
+![8](https://github.com/FlorPons/FlorPons/assets/111473222/66227a52-618e-46ee-b3a5-35e97d24393d)
+![9](https://github.com/FlorPons/FlorPons/assets/111473222/f0e31ddf-8a33-4d0e-9b14-b730eab60767)
+![10](https://github.com/FlorPons/FlorPons/assets/111473222/b275fb89-d7ef-4bbb-b9ea-01a2e544af04)
+![11](https://github.com/FlorPons/FlorPons/assets/111473222/ec6f3be4-f861-440a-a8fb-aef6be845c43)
+![12](https://github.com/FlorPons/FlorPons/assets/111473222/6e9454bd-1f71-4eb7-898c-7da611adf2ee)
+
+
 
 ## Contacto
  Mi Linkedin es www.linkedin.com/in/maria-florencia-pons 
