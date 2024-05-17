@@ -3,8 +3,8 @@
 ## Acerca de mí
 
 - 🎓 Terminé la *Tecnicatura Universitaria en Programación* de la UTN en diciembre del 2023.
-- 🎨 Me gusta el dibujo y el diseño por lo que cursé *Diseño UX/UI en Codo a Codo* para aplicarlo en sitios web y aplicaciones en el segundo semestre de 2023.
 - 📊 Estoy interesada en la creación de gráficos y análisis de datos por lo que hice *Big Data/Data Science* de Codo a Codo en el segundo semestre de 2022.
+- 🎨 Me gusta el dibujo y el diseño por lo que cursé *Diseño UX/UI en Codo a Codo* para aplicarlo en sitios web y aplicaciones en el segundo semestre de 2023.
 - ✏️ También cursé *Full Stack Python* en el primer semestre de 2023 y actualmente curso *Full Stack Node JS* de Codo a Codo.
 - 👩‍🏫 Soy profesora de Educación Primaria con más de 10 años de experiencia.
 -  🤝 Me gusta trabajar en equipo de manera armoniosa.
