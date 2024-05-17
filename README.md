@@ -2,13 +2,14 @@
 
 ## Acerca de mí
 
-- 🎓 Estudiante de Tecnicatura Universitaria en Programación de la UTN.
-- 🎨 Apasionada por el diseño en aplicaciones y páginas web. (Diseño UX/UI en Codo a Codo).
-- 📊 Interesada en la creación de gráficos y análisis de datos (Big Data/Data Science de Codo a Codo).
-- ✏️ Aficionada al dibujo y desarrollo de páginas web.
-- 👩‍🏫 Profesora de Educación Primaria con más de 10 años de experiencia.
+- 🎓 Terminé la *Tecnicatura Universitaria en Programación* de la UTN en diciembre del 2023.
+- 🎨 Me gusta el dibujo y el diseño por lo que cursé *Diseño UX/UI en Codo a Codo* para aplicarlo en sitios web y aplicaciones en el segundo semestre de 2023.
+- 📊 Estoy interesada en la creación de gráficos y análisis de datos por lo que hice *Big Data/Data Science* de Codo a Codo en el segundo semestre de 2022.
+- ✏️ También cursé *Full Stack Python* en el primer semestre de 2023 y actualmente curso *Full Stack Node JS* de Codo a Codo.
+- 👩‍🏫 Soy profesora de Educación Primaria con más de 10 años de experiencia.
 -  🤝 Me gusta trabajar en equipo de manera armoniosa.
-- 😊 Al principio soy un poco tímida, pero cuando adquiero confianza puedo lograr grandes cosas. 
+- 😊 Al principio soy un poco tímida, pero cuando adquiero confianza puedo lograr grandes cosas.
+- ✨Estoy en constante proceso de aprendizaje. 
 
 ![tumblr_c6ad1edbea248041bb10f3a7d1597461_0fb5f9a8_640](https://github.com/FlorPons/FlorPons/assets/111473222/bb803857-79b0-4d44-9490-a55df6554892)
 
