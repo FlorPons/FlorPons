@@ -11,25 +11,16 @@
 - 😊 Al principio soy un poco tímida, pero cuando adquiero confianza puedo lograr grandes cosas.
 - ✨Estoy en constante proceso de aprendizaje. 
 
-![tumblr_c6ad1edbea248041bb10f3a7d1597461_0fb5f9a8_640](https://github.com/FlorPons/FlorPons/assets/111473222/bb803857-79b0-4d44-9490-a55df6554892)
 
-## Lenguajes y Herramientas
+## 🌐 Contacto:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-florencia-pons) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/floriponstoloza)
 
-![1](https://github.com/FlorPons/FlorPons/assets/111473222/068167cb-36fe-4eb7-bd3c-855fc00b7ca9)
-![2](https://github.com/FlorPons/FlorPons/assets/111473222/8933ffda-1de6-4ed9-9c9c-1eb803ad8579)
-![3](https://github.com/FlorPons/FlorPons/assets/111473222/5a16d0bb-3155-4bc5-90fa-45c6221b50dc)
-![4](https://github.com/FlorPons/FlorPons/assets/111473222/35f42bd0-7f74-4377-9329-9a695a43f6bb)
-![5](https://github.com/FlorPons/FlorPons/assets/111473222/05061e28-eca8-4501-a1d0-ad0de741c196)
-![6](https://github.com/FlorPons/FlorPons/assets/111473222/4af072d9-1231-4a2e-a7e4-c75c1a5f1100)
-![7](https://github.com/FlorPons/FlorPons/assets/111473222/b774f54a-3521-474e-8d6f-ad3182fd4ee5)
-![8](https://github.com/FlorPons/FlorPons/assets/111473222/cb717fad-249a-4a14-9043-77f5dcaf1291)
-![9](https://github.com/FlorPons/FlorPons/assets/111473222/32493b58-080a-4cf0-a968-3fe1b7da02bd)
-![10](https://github.com/FlorPons/FlorPons/assets/111473222/9797ec35-c64d-403e-804c-fc6ccb1d05ae)
-![11](https://github.com/FlorPons/FlorPons/assets/111473222/ad6f951f-2493-44cd-b973-533192affaea)
-![12](https://github.com/FlorPons/FlorPons/assets/111473222/305b3901-16a6-40ff-9e32-00f22196c787)
+# 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorPons&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contacto
- Mi Linkedin es www.linkedin.com/in/maria-florencia-pons 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 ## ¡Gracias por visitar mi perfil! 😊
