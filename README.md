@@ -2,13 +2,15 @@
 
 ## About Me
 👩I am a Frontend Developer passionate about creating interactive and engaging experiences through web applications and websites. Since 2022, I have been honing my skills in various languages and technologies with a special focus on developing intuitive and responsive interfaces.
-📚 Education
-🎓University Technician in Programming - National Technological University
-Complementary Training in:
-📊Big Data
-✨Full Stack Development
-🎨UX/UI Design
-🧠Artificial intelligence
+
+📚 Education:
+- 🎓University Technician in Programming - National Technological University
+
+  Complementary Training in:
+- 📊Big Data
+- ✨Full Stack Development
+- 🎨UX/UI Design
+- 🧠Artificial intelligence
 
 💻 Skills
 - Programming languages: Python, Java, JavaScript, TypeScript
