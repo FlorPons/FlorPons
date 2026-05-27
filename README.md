@@ -33,9 +33,9 @@ I am a professional in constant learning, adapting to new technologies and work 
 💬 Let's connect!
 I am open to exchanging ideas about programming. Don't hesitate to contact me to collaborate on a project or ask me a question!
 
-## 🌐 Contact:
+<!--## 🌐 Contact:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-florencia-pons) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/floriponstoloza)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/floriponstoloza)-->
 
 # 📊 GitHub Stats:
 
